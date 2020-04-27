@@ -13,3 +13,8 @@ nav ul li {
     cursor: pointer;
     padding: 0.5rem;
 }
+
+nav ul li:hover {
+    background-color: #555;
+    color: white;
+}
