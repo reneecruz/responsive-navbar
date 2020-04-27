@@ -8,3 +8,8 @@ nav ul {
     margin: 0;
     padding: 0;
 }
+
+nav ul li {
+    cursor: pointer;
+    padding: 0.5rem;
+}
