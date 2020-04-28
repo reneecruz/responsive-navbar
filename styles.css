@@ -31,6 +31,16 @@ nav ul li:hover {
     color: white;
 }
 
+.hero-img {
+    background-image: url("https://www.lifeofpix.com/wp-content/uploads/2015/06/Life-of-Pix-free-stock-photos-van-sea-landscape-santalla.jpg");
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 /* Responsive Nav Bar */
 @media all and (max-width: 600px) {
     nav ul {
